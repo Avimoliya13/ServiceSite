@@ -1,3 +1,15 @@
+I had made a basic frontend of the service site using reactjs apart from this what so ever i learned in react is seem to be commented in this files.....
+
+#Output
+
+![Screenshot (464)](https://user-images.githubusercontent.com/116826179/203139791-da5d0f4a-e3fd-43c6-ba8e-45e489626ba9.png)
+![Screenshot (465)](https://user-images.githubusercontent.com/116826179/203139827-5de9a2ce-19dc-4f9b-a331-c38fd8a88ca5.png)
+![Screenshot (466)](https://user-images.githubusercontent.com/116826179/203139867-df2b8cb2-8312-49b5-aeee-2c15ff85765e.png)
+![Screenshot (467)](https://user-images.githubusercontent.com/116826179/203139896-18368302-5e04-4d76-9df1-ca8dd538f795.png)
+![Screenshot (468)](https://user-images.githubusercontent.com/116826179/203139912-0304bf8b-f8f0-42d6-b60f-1f86a3209df7.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
